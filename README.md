@@ -1,0 +1,1 @@
+# 6.Hindi-Handwritten-Character-Recognition-CNN
